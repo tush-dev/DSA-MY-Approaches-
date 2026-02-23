@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        //tushar
         vector<vector<int>> ans ;
         int n = nums.size();
         sort(nums.begin(),nums.end()) ;
@@ -13,7 +14,7 @@ public:
 
             while(l<r){
                 int sum = nums[i]+nums[l]+nums[r] ;
-                if(sum == 0){
+                if(sum == 0){       // if we found a triplet print and alaop check others also
                         vector<int> temp ={nums[i] , nums[l] , nums[r]} ;
                         ans.push_back(temp) ;
 
