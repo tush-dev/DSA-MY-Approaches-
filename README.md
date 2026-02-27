@@ -19,3 +19,15 @@ I aim to improve logical thinking, recognize patterns across problems, and devel
 This repository reflects my commitment to consistency — solving and analyzing problems regularly to strengthen fundamentals.
 
 **One problem at a time. Continuous improvement. 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
+<!---LeetCode Topics End-->
