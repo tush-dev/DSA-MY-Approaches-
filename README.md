@@ -27,18 +27,22 @@ This repository reflects my commitment to consistency — solving and analyzing 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
