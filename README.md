@@ -25,6 +25,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
@@ -32,17 +33,20 @@ This repository reflects my commitment to consistency — solving and analyzing 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
