@@ -62,4 +62,12 @@ This repository reflects my commitment to consistency — solving and analyzing 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0992-subarrays-with-k-different-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
