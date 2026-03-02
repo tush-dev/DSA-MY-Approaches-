@@ -25,6 +25,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +66,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
