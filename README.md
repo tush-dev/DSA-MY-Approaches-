@@ -26,6 +26,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
@@ -78,4 +79,12 @@ This repository reflects my commitment to consistency — solving and analyzing 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
