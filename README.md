@@ -91,4 +91,16 @@ This repository reflects my commitment to consistency — solving and analyzing 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
