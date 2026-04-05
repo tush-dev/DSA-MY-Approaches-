@@ -3,20 +3,28 @@ public:
 //tushar
     double findMaxAverage(vector<int>& nums, int k) {
         
-        double windowSum=0;
-        for(int i=0; i<k;i++)
-        {
-             windowSum += nums[i];
+        int i=0;
+        int j=0;
+        int sum = 0;
+        int n= nums.size() ;
+        int mx = INT_MIN ;
+        double avg ;
+        while (j<n){
+            sum = sum + nums[j] ;
+
+            if(j-i+1 <k){
+                j++;
+            }
+
+            else if(j-i+1 == k){
+            mx = max(mx, sum) ;
+            sum = sum - nums[i] ;
+            i++;
+            j++ ;
+            }
         }
-        double maxSum= windowSum;
-        for(int j=k; j<nums.size();j++)
-        {
-             windowSum += nums[j];
-             windowSum -= nums[j-k];
-             maxSum = max(windowSum, maxSum);
-        }
-        return maxSum/k ;
-        
+        avg = (double)mx / k ;
+        return avg;
     }
 };
 
