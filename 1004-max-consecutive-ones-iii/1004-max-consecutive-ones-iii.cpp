@@ -1,48 +1,35 @@
-// class Solution {
-// public:
-//     int longestOnes(vector<int>& nums, int k) {
-//         int maxLen = 0;
-
-//         for (int i = 0; i < (int)nums.size(); i++) {
-//             int zeroCount = 0;
-
-//             for (int j = i; j < (int)nums.size(); j++) {
-//                 if (nums[j] == 0) zeroCount++;
-
-//                 if (zeroCount > k) break;
-
-//                 maxLen = max(maxLen, j - i + 1);
-//             }
-//         }
-
-//         return maxLen;
-//     }
-// };
-
-// sliding window 
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int zerocount = 0;
-        int start = 0;
-        int maxCount = 0;
+        int zerocount = 0;   // count of zeros in current window
+        int i = 0;           // left pointer of window
+        int j = 0;           // right pointer of window
+        int mx = 0;          // stores maximum length
+        int n = nums.size();
 
-        for (int end = 0; end < nums.size(); end++) {
+        // expand the window using j
+        while (j < n) {
 
-            if (nums[end] == 0)
+            // if current element is 0, increment zero count
+            if (nums[j] == 0)
                 zerocount++;
 
+            // if zero count exceeds k, shrink window from left
             while (zerocount > k) {
-                if (nums[start] == 0)
+                // if the element going out is 0, reduce zero count
+                if (nums[i] == 0)
                     zerocount--;
                 
-                start++;   // ✅ always move start
+                i++;  // move left pointer forward
             }
 
-            maxCount = max(maxCount, end - start + 1);
+            // update maximum window size
+            // window [i, j] has at most k zeros
+            mx = max(mx, j - i + 1);
+
+            j++;  // move right pointer forward (expand window)
         }
 
-        return maxCount;
+        return mx;
     }
 };
-
