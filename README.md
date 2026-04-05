@@ -39,6 +39,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
@@ -62,6 +63,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -82,6 +84,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0345-reverse-vowels-of-a-string) |
