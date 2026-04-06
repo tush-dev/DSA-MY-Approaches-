@@ -25,6 +25,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0209-minimum-size-subarray-sum) |
@@ -75,6 +76,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0151-reverse-words-in-a-string) |
@@ -112,4 +114,8 @@ This repository reflects my commitment to consistency — solving and analyzing 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
