@@ -34,6 +34,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 | [0643-maximum-average-subarray-i](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -83,6 +84,7 @@ This repository reflects my commitment to consistency — solving and analyzing 
 | [0151-reverse-words-in-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -120,4 +122,8 @@ This repository reflects my commitment to consistency — solving and analyzing 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/tush-dev/DSA-MY-Approaches-/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
